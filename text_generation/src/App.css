@@ -1,0 +1,15 @@
+.output{
+  background-color: aqua;
+  height: 200px;
+  color:black;
+}
+.container{
+  background-color: black;
+  color:white;
+  margin: 80px auto;
+  padding: 10px 20px;
+}
+.submit{
+  background-color: aqua !important;
+  color:black;
+}
